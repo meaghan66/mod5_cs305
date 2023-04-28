@@ -6,4 +6,4 @@ When contributing to this project please contact any of the owers of this reposi
 
 We follow a code of conduct that can be found [here](CODE_OF_CONDUCT.md)
 
-Contributor: Alyssa Ortiz @ao994
+Contributor: Alyssa Ortiz @ao994, Alonso Garcia @abg287
